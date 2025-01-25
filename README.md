@@ -1,4 +1,11 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Minh Le ===============================================================================================================================  Data Science ------------  * 🌍  I'm based in Salt Lake City, Utah * ✉️  You can contact me at [anhminh7802@gmail.com](mailto:anhminh7802@gmail.com) * 🧠  I'm learning Machine Learning and Data Engineering * 🤝  I'm open to collaborating on Projects * ⚡  My favorite soccer club is Manchester United
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Minh Le ===============================================================================================================================  
+Data Science 
+------------  
+* 🌍  I'm based in Salt Lake City, Utah
+* ✉️  You can contact me at [anhminh7802@gmail.com](mailto:anhminh7802@gmail.com)
+* 🧠  I'm learning Machine Learning and Data Engineering
+* 🤝  I'm open to collaborating on Projects
+* ⚡  My favorite soccer club is Manchester United
 
 ### Skills  
 
