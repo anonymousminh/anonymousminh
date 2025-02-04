@@ -7,7 +7,6 @@ Data Science
 I am a data science student love playing with data
 
 * 🌍  I'm based in Salt Lake City, Utah
-* 🖥️  See my portfolio at [My portfolio](http://jtm.com)
 * ✉️  You can contact me at [anhminh7802@gmail.com](mailto:anhminh7802@gmail.com)
 * 🧠  I'm learning Machine Learning and Data Engineering
 * 🤝  I'm open to collaborating on Projects
