@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Data Science 
 ------------  
 
-I am a data science student love playing with data
+I am a data science student love playing with data and building cool stuffs
 
 * 🌍  I'm based in Salt Lake City, Utah
 * ✉️  You can contact me at [anhminh7802@gmail.com](mailto:anhminh7802@gmail.com)
