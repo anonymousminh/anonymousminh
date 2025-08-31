@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Minh Le 
 ===============================================================================================================================
 
-Data Science 
+Computer Science and Mathematics
 ------------  
 
 I am a data science student love playing with data and building cool stuffs
