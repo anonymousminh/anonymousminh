@@ -8,7 +8,7 @@ I am a data science student love playing with data and building cool stuffs
 
 * 🌍  I'm based in Salt Lake City, Utah
 * ✉️  You can contact me at [anhminh7802@gmail.com](mailto:anhminh7802@gmail.com)
-* 🧠  I'm learning Machine Learning and Data Engineering
+* 🧠  I'm learning AI/ML and Software Engineering
 * 🤝  I'm open to collaborating on Projects
 * ⚡  My favorite soccer club is Manchester United
 
