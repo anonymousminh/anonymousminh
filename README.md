@@ -4,10 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Data Science
 ------------  
 
-<h1 align="center">Hi 👋, I'm Minh Le</h1>
 <h3 align="center">An aspiring software engineer</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anonymousminh" alt="anonymousminh" /></a> </p>
 
 - 🔭 I’m currently working on **AI/ML and full stack**
 
