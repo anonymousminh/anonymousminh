@@ -4,9 +4,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Data Science
 ------------  
 
+<h1 align="center">Hi 👋, I'm Minh Le</h1>
 <h3 align="center">An aspiring software engineer</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anonymousminh&label=Profile%20views&color=0e75b6&style=flat" alt="anonymousminh" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anonymousminh" alt="anonymousminh" /></a> </p>
 
@@ -22,7 +21,7 @@ Data Science
 
 - ⚡ Fun fact **I can play good at any sport without knowing it the first time**
 
-<h3 align="left">Connect with me: </h3>
+<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/minhle7802" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="minhle7802" height="30" width="40" /></a>
 </p>
@@ -35,4 +34,3 @@ Data Science
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anonymousminh&show_icons=true&locale=en" alt="anonymousminh" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anonymousminh&" alt="anonymousminh" /></p>
-
