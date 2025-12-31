@@ -5,7 +5,7 @@ Data Science
 ------------  
 
 # 💫 About Me:
-🔭 I’m currently working on AI/ML, backend, devops<br>👯 I’m looking to collaborate on open-source projects and hackathons<br>🤝 I’m looking for help with system design<br>🌱 I’m currently learning Pytorch, React<br>⚡ Fun fact: I play good at any sports without knowing it the first time. Also a big fan of Manchester United FC
+🔭 I’m currently working on AI/ML, backend, and a bit frontend<br>👯 I’m looking to collaborate on open-source projects and hackathons<br>🤝 I’m looking for help with system design<br>🌱 I’m currently learning Pytorch, React<br>⚡ Fun fact: I play good at any sports without knowing it the first time. Also a big fan of Manchester United FC
 
 
 ## 🌐 Socials:
